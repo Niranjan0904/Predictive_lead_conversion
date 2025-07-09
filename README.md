@@ -117,7 +117,7 @@ Check the User Manual for detailed guidance on installation, usage, and troubles
 
 **👥 Author**
 
-Jiya Patel
+Niranjan Prajapati
 
-📧 [jiya2172005@gmail.com ]
+📧 [niranjanprajapati805@gmail.com]
 ---
