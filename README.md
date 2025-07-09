@@ -46,7 +46,7 @@ An intelligent, interactive Streamlit-based tool for predicting the probability 
 
 1. **Clone the repository:**
 
-git clone https://github.com/jiyapatel2107/lead-conversion-app.git
+git clone https://github.com/Niranjan0904/Predictive_lead_conversion.git
 cd lead-conversion-app
 
 2.  **Install Dependencies**
